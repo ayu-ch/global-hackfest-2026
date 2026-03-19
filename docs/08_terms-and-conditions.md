@@ -4,7 +4,7 @@ Effective: 2026-01-23. Last updated: 2026-01-23.
 
 ## 1. Overview
 
-These terms apply to Global Hackfest 2026 (March 23 – May 18, 2026). By participating you agree to them.
+These terms apply to Global Hackfest 2026 (March 23 – April 27, 2026). By participating you agree to them.
 
 ## 2. Organizer
 
@@ -22,7 +22,7 @@ Not eligible: Conflux Foundation employees and their immediate family; judges an
 
 No required tracks. Build what you want as long as it uses Conflux in a real way. The "innovation areas" in the docs are suggestions only.
 
-5 weeks: March 23 – April 27, 2026. Registration and build in that window. Submissions due April 27, 11:59:59. Judging: 3 weeks, no live rounds. Winners announced May 18, 2026.
+4 weeks: March 23 – April 20, 2026. Registration and build in that window. Submissions due April 20, 11:59:59. Judging: 1 week (starting April 21, 2026), no live rounds. Winners announced April 27, 2026.
 
 ## 5. Prizes
 

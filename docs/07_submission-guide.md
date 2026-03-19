@@ -126,7 +126,7 @@
    3. **Use the submission template** and fill out all required fields completely and accurately, including:
       - Link to your Electric Capital PR
       - Link to your social media post
-   4. **Submit the Pull Request** before the deadline (2026-04-27 @ 11:59:59)
+   4. **Submit the Pull Request** before the deadline (2026-04-20 @ 11:59:59)
 
    #### Submission Template Fields
 
@@ -300,7 +300,7 @@
    A: Projects are evaluated on technical implementation, Conflux integration, innovation, user experience, and presentation quality. See our judging criteria doc for details.
 
    **Q: When will winners be announced?**
-   A: Winners will be announced on May 18, 2026, after the 3-week judging period. All participants will be notified via Discord and social media.
+   A: Winners will be announced on April 27, 2026, after the 1-week judging period (starting April 21, 2026). All participants will be notified via Discord and social media.
 
    **Q: What if a team member drops out before submission?**
    A: Update your submission to reflect the current team composition. Ensure the remaining team members can complete and present the project.

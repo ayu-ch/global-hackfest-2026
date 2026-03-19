@@ -2,13 +2,13 @@
 
 ## Overview
 
-Global Hackfest 2026 is a virtual hackathon. You get 5 weeks to build on Conflux with no fixed tracks. We want more developers trying Conflux and more projects that actually use its features.
+Global Hackfest 2026 is a virtual hackathon. You get 4 weeks to build on Conflux with no fixed tracks. We want more developers trying Conflux and more projects that actually use its features.
 
 ## Schedule
 
 | Event | Dates | Structure | Prize Pool |
 |-------|-------|-----------|------------|
-| **Global Hackfest 2026** | 2026-03-23 – 2026-04-27 | Open Innovation | $10,000 (5 Main + 5 Category Awards) |
+| **Global Hackfest 2026** | 2026-03-23 – 2026-04-20 | Open Innovation | $10,000 (5 Main + 5 Category Awards) |
 
 ## Prizes
 Total prize pool: $10,000. 5 Main Awards ($1,500 each). 5 Category Awards ($500 each): Best USDT0 integration, Best AxCNH integration, Best AI + Conflux integration, Best DeFi project, Best Developer Tool.
@@ -40,16 +40,16 @@ Office hours: https://calendly.com/nico-conflux/30min
 
 ### 1. Register
 - **Register on [Luma](https://luma.com/vniqj3eg)** 
-- **Join the hackathon** (2026-03-23 – 2026-04-27)
+- **Join the hackathon** (2026-03-23 – 2026-04-20)
 - **Form your team** (1-5 members max)
 - **Join our Telegram and Discord** for updates and support
 
 ### 2. Build
-- **5 weeks of development** time
+- **4 weeks of development** time
 - **Use Conflux Network** to build your project
 
 ### 3. Submit
-- **Submit by deadline** (2026-04-27 @ 11:59:59)
+- **Submit by deadline** (2026-04-20 @ 11:59:59)
 - **Add your project** to the `/projects/` folder
 - **Include demo video** (3-5 minutes)
 - **Include participant intro video** (30-60 seconds): short clip saying who you are, what you're building for Global Hackfest 2026, and that you're excited to participate (e.g. "I'm [Name] from [Country/City], building [Project Name] for Conflux Network's Global Hackfest 2026 and I'm excited to participate"). These clips will be used at a conference in Hong Kong.
@@ -62,9 +62,9 @@ Office hours: https://calendly.com/nico-conflux/30min
 Missing any required submission item (other than optional ones) may result in your project being ineligible for prizes.
 
 ### 4. Judging and prizes
-- 3 weeks of judging. No live pitches; we score from your repo, docs, and demo video.
+- 1 week of judging (starting April 21, 2026). No live pitches; we score from your repo, docs, and demo video.
 - 5 Main Awards ($1,500) + 5 Category Awards ($500): Best USDT0 integration, Best AxCNH integration, Best AI + Conflux integrations, Best DeFi project, Best Developer Tool.
-- Winners announced May 18, 2026. Winners must send a short pitch/demo video; we use those for a single hackathons winners showcase video on YouTube.
+- Winners announced April 27, 2026. Winners must send a short pitch/demo video; we use those for a single hackathons winners showcase video on YouTube.
 - Prizes paid in CFX on eSpace.
 
 ## Project submissions

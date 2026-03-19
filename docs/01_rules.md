@@ -7,7 +7,7 @@ Solo or teams of up to 5. Any skill level, anywhere. You must be 18+ or have par
 ## Registration and teams
 
 1. Join Discord/Telegram.
-2. Register during the hackathon window (March 23 – April 27, 2026).
+2. Register during the hackathon window (March 23 – April 20, 2026).
 3. Form a team if you want; solo is fine. No track to pick.
 4. Start building.
 
@@ -15,7 +15,7 @@ Max 5 per team. Everyone on the team should register. You can form the team befo
 
 ## Development
 
-**Code:** Build during the 5 weeks. You can use open source libs and frameworks. Building on your own prior work is OK if the new part is substantial. Starter templates are there to use.
+**Code:** Build during the 4 weeks. You can use open source libs and frameworks. Building on your own prior work is OK if the new part is substantial. Starter templates are there to use.
 
 **Tech:** MIT, Apache 2.0, or GPL v3. Repo must be public on GitHub. README with setup and how to run. Project has to run and do what you demo. It has to use Conflux in a real way, not just in name.
 
@@ -23,7 +23,7 @@ Max 5 per team. Everyone on the team should register. You can form the team befo
 
 ## Timeline
 
-5 weeks: March 23 – April 27, 2026. Registration same window. Everything due April 27, 11:59:59 UTC. No extensions. Judging takes 3 weeks; no live rounds. Winners announced May 18. Winners send short videos for the winners reel.
+4 weeks: March 23 – April 20, 2026. Registration same window. Everything due April 20, 11:59:59 UTC. No extensions. Judging takes 1 week (starting April 21, 2026); no live rounds. Winners announced April 27. Winners send short videos for the winners reel.
 
 ## What you must submit
 

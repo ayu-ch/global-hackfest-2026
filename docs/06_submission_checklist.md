@@ -114,7 +114,7 @@ Create a tweet on Twitter/X announcing your project submission:
 3. **Use the README.md template** and fill out all required fields completely and accurately, including:
    - Link to your Electric Capital PR
    - Link to your social media post
-4. **Submit the Pull Request** before the deadline (2026-04-27 @ 11:59:59)
+4. **Submit the Pull Request** before the deadline (2026-04-20 @ 11:59:59)
 
 
 # 📄 Required Documentation
@@ -129,7 +129,7 @@ Your project README must include the following sections:
 Brief description of your project and its purpose.
 
 ## Hackathon
-Global Hackfest 2026 (2026-03-23 – 2026-04-27)
+Global Hackfest 2026 (2026-03-23 – 2026-04-20)
 
 ## Team
 - Team Member 1 (GitHub: @username, Discord: username#1234)
@@ -311,10 +311,10 @@ These videos will be used at a conference in Hong Kong.
 ## 📅 Important Deadlines
 
 ### Global Hackfest 2026
-- **Submission Deadline**: 2026-04-27 @ 11:59:59
+- **Submission Deadline**: 2026-04-20 @ 11:59:59
 - **Late Submissions**: Not accepted
-- **Judging Period**: 3 weeks (no live presentations)
-- **Winners Announced**: 2026-05-18 (winner showcase videos used for the official winners video)
+- **Judging Period**: 1 week (starting 2026-04-21; no live presentations)
+- **Winners Announced**: 2026-04-27 (winner showcase videos used for the official winners video)
 
 ## 🆘 Getting Help
 
